@@ -1,6 +1,6 @@
 # website-advocacia
 
-Desenvolvido durante o evento Front Week, do Matheus Battisti, o site foi criado para o nincho de advocacia e personalizado com o tema da série "Suits".
+Desenvolvido durante o evento Front Week, do Matheus Battisti, o site foi criado para o nicho de advocacia e personalizado com o tema da série "Suits".
 
 O projeto foi desenvolvido usando HTML, CSS, JS e manipulação através do DOM, também foi feita a responsividade para modo mobile.
 
