@@ -16,7 +16,7 @@ O site é composto apenas por uma página, porém com seções bem distribuidas.
 
 ## Link do deploy: https://brunopc66.github.io/website-advocacia/projeto/
 
-Este é meu primeiro repositório independente, peço desculpas se não está tão profissional, porém sinta-se livre para deixar uma crítica ou uma dica, tanto sobre o repo quanto sobre o código.
+Este é meu primeiro repositório completo, peço desculpas se não está tão profissional, porém sinta-se livre para deixar uma crítica ou uma dica, tanto sobre o repo quanto sobre o código.
 
 Sinta-se livre para opinar ou criticar construtivamente o meu projeto.
 
